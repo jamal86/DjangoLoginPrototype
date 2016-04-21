@@ -1,5 +1,5 @@
 """
-Definition of urls for DjangoWebProject1.
+Definition of urls for DjangoLoginPrototype.
 """
 
 from datetime import datetime
