@@ -1,0 +1,5 @@
+BaseOAuth2
+AuthCanceled
+WeixinOAuth2
+HTTPError
+AuthUnknownError
